@@ -1,0 +1,11 @@
+D:\Inheritance Programe\Employee_2\bin\Debug\Employee_2.exe.config
+D:\Inheritance Programe\Employee_2\bin\Debug\Employee_2.exe
+D:\Inheritance Programe\Employee_2\bin\Debug\Employee_2.pdb
+D:\Inheritance Programe\Employee_2\obj\Debug\Employee_2.csproj.AssemblyReference.cache
+D:\Inheritance Programe\Employee_2\obj\Debug\Employee_2.csproj.SuggestedBindingRedirects.cache
+D:\Inheritance Programe\Employee_2\obj\Debug\Employee_2.Form1.resources
+D:\Inheritance Programe\Employee_2\obj\Debug\Employee_2.Properties.Resources.resources
+D:\Inheritance Programe\Employee_2\obj\Debug\Employee_2.csproj.GenerateResource.cache
+D:\Inheritance Programe\Employee_2\obj\Debug\Employee_2.csproj.CoreCompileInputs.cache
+D:\Inheritance Programe\Employee_2\obj\Debug\Employee_2.exe
+D:\Inheritance Programe\Employee_2\obj\Debug\Employee_2.pdb
